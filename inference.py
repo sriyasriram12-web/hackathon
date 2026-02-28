@@ -26,7 +26,7 @@
       │   └── ... (all your training CSVs)
       └── soothing_music.wav    (auto-generated if missing)
 
-      From: Sriy Sriram, Sriya Kanikaram, Anish Saravananan
+      From: Sriya Sriram, Shriya Kanikaram, Anish Saravananan
 ============================================================
 """
 
