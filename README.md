@@ -6,6 +6,8 @@ A machine learning system that reads brainwave data from an OpenBCI EEG headset,
 
 Built for a high school hackathon.
 
+From Anish Saravanan, Sriya Sriram and Shriya Kanikaram.
+
 ---
 
 ## How It Works
